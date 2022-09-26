@@ -1,0 +1,45 @@
+/* Write your CSS here */
+.latestMatch-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.match-heading {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'roboto';
+  margin-left: 40px;
+}
+.latestMatch-list {
+  background-color: #0f172a;
+  width: 80%;
+  height: 30%;
+  padding-top: 30px;
+  margin-bottom: 10px;
+  margin-left: 10%;
+}
+.latest-match-details-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 20px;
+}
+.match-logo {
+  height: 180px;
+  width: 180px;
+}
+.latest-match-venue {
+  color: #ffffff;
+  font-size: 18px;
+  margin-right: 10%;
+  margin-left: 20px;
+}
+
+.list-set {
+  color: #ffffff;
+  font-size: 18px;
+  margin-left: 10%;
+  margin-right: 30px;
+}

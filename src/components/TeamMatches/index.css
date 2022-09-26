@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.match-details-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 20px;
+  background-color: #4f5db0;
+  min-height: 100vh;
+}
+
+.recent-matches-list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.match-image {
+  width: 80%;
+  margin-left: 10%;
+}

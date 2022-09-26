@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.team-matches-container {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff33;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  width: 400px;
+  height: 180px;
+  padding: 10px;
+}
+
+.team-img {
+  height: 150px;
+  width: 120px;
+}
+.team-name {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'roboto';
+  text-decoration: none;
+}
+.team-link {
+  text-decoration: none;
+  width: 40%;
+}
